@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fetching data from any news API source https://newsapi.org.
 
 ## Available Scripts
 
