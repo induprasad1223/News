@@ -1,0 +1,10 @@
+.cardBody {
+  width: "16rem";
+  text-overflow: "ellipsis";
+  overflow: "hidden";
+  white-space: "no-wrap";
+}
+.card:hover {
+  -ms-transform: scaleX(1.05) scaleY(1.05);
+  transform: scaleX(1.05) scaleY(1.05);
+}
